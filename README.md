@@ -25,9 +25,6 @@ Because it’s sick of your sanity being battered by unwanted posts. That’s wh
 1. **Install & Relax:** Once loaded, the extension works immediately.  
 2. **Continue Browsing Reddit:** The next time you head to Reddit, the extension does its job without you lifting a finger.  
 3. *(Optional)* **Celebrate**: Seriously, give yourself a high-five—your feed is now free of the crap you never wanted to see.  
-
-*(Want a demo? You could add a snazzy GIF here if you’re feeling extra fancy!)*  
-
 ---
 
 ## 📣 **Contributing & Support**  
