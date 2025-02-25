@@ -21,28 +21,6 @@ Because it’s sick of your sanity being battered by unwanted posts. That’s wh
 
 ---
 
-## 🛠️ **Installation Guide (Idiot-Proof)**  
-
-1. **Download the Extension** 📥  
-   - Grab the .zip file of this repo by clicking the green “Code” button, then “Download ZIP.”  
-
-2. **Unzip the File** 📂  
-   - Extract (unzip) the downloaded file into a folder.  
-
-3. **Open Chrome Extensions Page** 🔧  
-   - Pop open a new tab and go to `chrome://extensions/`.  
-
-4. **Enable Developer Mode** ⚙️  
-   - Toggle on Developer Mode (usually at the top-right corner).  
-
-5. **Click “Load Unpacked”** 📌  
-   - Select the folder where you unzipped the extension.  
-
-6. **Done!** 🎉  
-   - The extension is now installed and ready to smash political junk on Reddit!  
-
----
-
 ## 🎉 **How to Use**  
 1. **Install & Relax:** Once loaded, the extension works immediately.  
 2. **Continue Browsing Reddit:** The next time you head to Reddit, the extension does its job without you lifting a finger.  
